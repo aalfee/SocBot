@@ -1,4 +1,4 @@
-package com.example.utils;
+package com.example.utils.arousal;
 
 public class ArousalStateController {
     static float homeostaticLow = 0.3f;  //excluded

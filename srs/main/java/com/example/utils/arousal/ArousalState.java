@@ -1,4 +1,4 @@
-package com.example.utils;
+package com.example.utils.arousal;
 
 public class ArousalState{
     //cyclic behavior process(temporary)
